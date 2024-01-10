@@ -1,4 +1,4 @@
-# MERN Stack Template
+# REACT Stack Template
 
 This is a template repository for projects using the `REACT-JS` + `TS` (Typescript). It provides a basic project structure to help you get started quickly.
 
